@@ -8,7 +8,7 @@ public class Cake {
     public Cake(String flavor) {
         this.flavor = flavor;
         // Default price for any cake, can be overridden in subclasses
-        this.price = 10.0;
+        this.price = 15.0;
     }
 
     // Getter and Setter for flavor
